@@ -1,0 +1,3 @@
+/Users/daviddiepersloot/CLionProjects/CSC2430/may6class/cmake-build-debug/CMakeFiles/may6class.dir
+/Users/daviddiepersloot/CLionProjects/CSC2430/may6class/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/daviddiepersloot/CLionProjects/CSC2430/may6class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
